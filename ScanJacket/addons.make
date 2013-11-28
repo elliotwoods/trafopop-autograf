@@ -1,0 +1,4 @@
+ofxGraycode
+ofxGrabCam
+ofxCvGui2
+ofxUI
