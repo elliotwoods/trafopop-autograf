@@ -1,5 +1,5 @@
-Trafo Pop - Auto Graf
-=====================
+# Auto Graf
+__For Trafo Pop__
 
 A toolkit for automatically pumping graphics into Trafo Pop jackets.
 
